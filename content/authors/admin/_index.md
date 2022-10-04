@@ -25,10 +25,10 @@ education:
   courses:
     - course: MSc Particle and Nuclear Physics
       institution: University of Edinburgh
-      institution: 2021-2022
+      year: 2021-2022
     - course: BA Mathematics
       institution: University of Cambridge
-      institution: 2017-2021
+      year: 2017-2021
 superuser: true
 last_name: Harris
 highlight_name: true
