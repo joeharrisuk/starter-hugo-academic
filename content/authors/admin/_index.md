@@ -22,9 +22,6 @@ organizations:
     url: https://www.ed.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MSc Particle and Nuclear Physics
       institution: University of Edinburgh
       year: 2022
