@@ -13,7 +13,7 @@ abstract: Information scrambling refers to the rapid spreading of initially
   demonstrate our protocol with simulations on IBM cloud-based quantum
   computers.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/2110.12355.pdf
 publication_types:
   - "2"
 authors:
