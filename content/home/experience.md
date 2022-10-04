@@ -41,8 +41,6 @@ experience:
     date_start: '2022-06-01'
     date_end: '2020-08-31'
     description:  |2-
-        Responsibilities include:
-        
         * Worked within the QI research group, supervised by Prof. Elham Kashefi, attending meetings of the group since January
         * Produced one of the first scalable protocols for running BQP computations on noisy devices by adapting an existing verification protocol
         * Developed the theory of the protocol and tested it by developing a classical simulation of the MBQC framework with Python
@@ -56,12 +54,11 @@ experience:
     date_start: '2022-06-01'
     date_end: '2020-08-31'
     description:  |2-
-        Responsibilities include:
-        
-        * Worked within the QI research group, supervised by Prof. Elham Kashefi, attending meetings of the group since January
-        * Produced one of the first scalable protocols for running BQP computations on noisy devices by adapting an existing verification protocol
-        * Developed the theory of the protocol and tested it by developing a classical simulation of the MBQC framework with Python
-        * High-level review of existing error mitigation and verification techniques
+        *  Highly competitive 10-week paid internship in quantum information research
+        * First author in a collaborative paper with post-doc researchers, later published in PRL
+        * We solved an outstanding problem in quantum scrambling theory: distinguishing between scrambling and decoherence via detection of a two-stage fidelity decay
+        * Gained theoretical experience in randomized benchmarking protocols and quantum scrambling
+        * Gained practical experience using Qiskit to generate and simulate random quantum circuits
 
 design:
   columns: '2'
