@@ -21,26 +21,20 @@ authors:
   - Bin Yan
   - Nikolai A. Sinitsyn
 publication: Physical Review Letters
-featured: false
+featured: true
 tags: []
 projects: []
 summary: ""
-url_dataset: "#"
+url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: "#"
-url_video: "#"
+url_source: ""
+url_video: ""
 date: 2022-10-04T13:36:46.343Z
 url_slides: ""
-links:
-  - name: Custom Link
-    url: http://example.org
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
-  focal_point: ""
-  preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: "#"
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_poster: ""
+url_code: ""
 doi: 10.1103/PhysRevLett.129.050602
 ---
