@@ -27,7 +27,7 @@ projects: []
 summary: ""
 url_dataset: "#"
 url_project: ""
-publication_short: PRL
+publication_short: ""
 url_source: "#"
 url_video: "#"
 date: 2022-10-04T13:36:46.343Z
