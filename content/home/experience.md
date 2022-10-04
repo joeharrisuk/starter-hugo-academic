@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant in Quantum Computing
-    company: AutoQT project, University of Edinburgh
+    company: AutoQT project, Quantum Informatics group, University of Edinburgh
     company_url: ''
     company_logo: UoE
-    location: 
+    location:
     date_start: '2022-09-01'
     date_end: ''
     description:  |2-
@@ -36,13 +36,34 @@ experience:
         * Direct collaboration with industry partners (Riverlane, Mind Foundry, etc.) to adapt my work of verification to noise characterisations of existing devices for use in their testing
 
   - title: Professor of Semiconductor Physics
-    company: University X
+    company: Quantum Informatics group, University of Edinburgh
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: UoE
+    location:
+    date_start: '2022-06-01'
+    date_end: '2020-08-31'
+    description:  |2-
+        Responsibilities include:
+        
+        * Worked within the QI research group, supervised by Prof. Elham Kashefi, attending meetings of the group since January
+        * Produced one of the first scalable protocols for running BQP computations on noisy devices by adapting an existing verification protocol
+        * Developed the theory of the protocol and tested it by developing a classical simulation of the MBQC framework with Python
+        * High-level review of existing error mitigation and verification techniques
+
+  - title: Quantum Computing Research Intern
+    company: Theoretical Division, Los Alamos National Laboratory
+    company_url: ''
+    company_logo: LANL
+    location:
+    date_start: '2022-06-01'
+    date_end: '2020-08-31'
+    description:  |2-
+        Responsibilities include:
+        
+        * Worked within the QI research group, supervised by Prof. Elham Kashefi, attending meetings of the group since January
+        * Produced one of the first scalable protocols for running BQP computations on noisy devices by adapting an existing verification protocol
+        * Developed the theory of the protocol and tested it by developing a classical simulation of the MBQC framework with Python
+        * High-level review of existing error mitigation and verification techniques
 
 design:
   columns: '2'
