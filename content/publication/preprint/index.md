@@ -18,6 +18,8 @@ publication_types:
   - "2"
 authors:
   - admin
+  - Bin Yan
+  - Nikolai A. Sinitsyn
 publication: Physical Review Letters
 featured: false
 tags: []
@@ -37,7 +39,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: 10.1103/PhysRevLett.129.050602
