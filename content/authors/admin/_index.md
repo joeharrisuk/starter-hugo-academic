@@ -17,7 +17,7 @@ social:
     link: https://scholar.google.com/citations?user=kU_4sBQAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/JoeHarrisUK
+    link: https://www.linkedin.com/in/JoeHarrisUK
 organizations:
   - name: University of Edinburgh
     url: https://www.ed.ac.uk/
