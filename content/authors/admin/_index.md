@@ -25,14 +25,14 @@ education:
   courses:
     - course: MSc Particle and Nuclear Physics
       institution: University of Edinburgh
-      year: 2022
+      institution: 2021-2022
     - course: BA Mathematics
       institution: University of Cambridge
-      year: 2021
+      institution: 2017-2021
 superuser: true
-last_name: Bighetti
+last_name: Harris
 highlight_name: true
-first_name: Alice
+first_name: Joe
 email: ""
 ---
-I'﻿m a University of Cambridge mathematics graduate and recently finished my master's at the University of Edinburgh,  where I wrote my dissertation on scalable, noise-robust techniques for running BQP computations on noisy quantum computers.
+I'm a University of Cambridge mathematics graduate and recently finished my master's at the University of Edinburgh,  where I wrote my dissertation on scalable, noise-robust techniques for running BQP computations on noisy quantum computers.
