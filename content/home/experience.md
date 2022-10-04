@@ -29,7 +29,9 @@ experience:
     location: 
     date_start: '2022-09-01'
     date_end: ''
-    description:
+    description:  |2-
+        Responsibilities include:
+        
         * Paid internship position to continue the work of my MSc dissertation within the national AutoQT project, leading UK research into quantum hardware testing
         * Direct collaboration with industry partners (Riverlane, Mind Foundry, etc.) to adapt my work of verification
 to noise characterisations of existing devices for use in their testing
