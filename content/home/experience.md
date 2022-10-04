@@ -32,7 +32,7 @@ experience:
     description:  |2-
         Responsibilities include:
         
-        * Analysing
+        * Paid internship position to continue the work of my MSc dissertation within the national AutoQT project, leading UK research into quantum hardware testing
         * Modelling
         * Deploying
 
