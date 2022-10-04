@@ -39,7 +39,7 @@ experience:
     company_logo: UoE
     location:
     date_start: '2022-06-01'
-    date_end: '2020-08-31'
+    date_end: '2022-08-31'
     description:  |2-
         * Worked within the QI research group, supervised by Prof. Elham Kashefi, attending meetings of the group since January
         * Produced one of the first scalable protocols for running BQP computations on noisy devices by adapting an existing verification protocol
@@ -51,8 +51,8 @@ experience:
     company_url: ''
     company_logo: LANL
     location:
-    date_start: '2022-06-01'
-    date_end: '2020-08-31'
+    date_start: '2021-06-01'
+    date_end: '2021-10-31'
     description:  |2-
         *  Highly competitive 10-week paid internship in quantum information research
         * First author in a collaborative paper with post-doc researchers, later published in PRL
