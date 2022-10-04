@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Paid internship position to continue the work of my MSc dissertation within the national AutoQT project, leading UK research into quantum hardware testing
-        * 
+        * Direct collaboration with industry partners (Riverlane, Mind Foundry, etc.) to adapt my work of verification to noise characterisations of existing devices for use in their testing
 
   - title: Professor of Semiconductor Physics
     company: University X
