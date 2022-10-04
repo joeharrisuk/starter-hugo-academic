@@ -1,6 +1,6 @@
 ---
 widget: collection
-widget_id: recent-publications
+widget_id: featured
 headless: true
 weight: 90
 title: Recent Publications
