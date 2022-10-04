@@ -3,7 +3,9 @@ title: Joe Harris
 role: Research Assistant in Quantum Computing
 bio: My research experience primarily involves employing benchmarking,
   verification and error mitigation techniques on noisy quantum computers.
-interests: []
+interests:
+  - Quantum computing
+  - quantum information
 social:
   - icon: envelope
     icon_pack: fas
